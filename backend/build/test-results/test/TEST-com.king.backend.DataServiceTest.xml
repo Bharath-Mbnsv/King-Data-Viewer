@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.king.backend.DataServiceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-12-11T14:03:14" hostname="Bharaths-MacBook-Air.local" time="0.12">
+  <properties/>
+  <testcase name="testFilterByName()" classname="com.king.backend.DataServiceTest" time="0.018"/>
+  <testcase name="testEmptyData()" classname="com.king.backend.DataServiceTest" time="0.0"/>
+  <testcase name="testFetchData()" classname="com.king.backend.DataServiceTest" time="0.012"/>
+  <testcase name="testFilterByStatus()" classname="com.king.backend.DataServiceTest" time="0.013"/>
+  <testcase name="testSortByCreatedOnAscending()" classname="com.king.backend.DataServiceTest" time="0.014"/>
+  <testcase name="testPagination()" classname="com.king.backend.DataServiceTest" time="0.013"/>
+  <testcase name="testPaginationBeyondLimit()" classname="com.king.backend.DataServiceTest" time="0.012"/>
+  <testcase name="testSortingOrder()" classname="com.king.backend.DataServiceTest" time="0.015"/>
+  <testcase name="testSortByCreatedOnDescending()" classname="com.king.backend.DataServiceTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
